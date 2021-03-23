@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple app that contains a login page and a welcome screen after login.
+The project has been developed using react js.
 
 ## Available Scripts
 
